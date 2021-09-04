@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NafisHandoko
 - 👀 I have interest in Frontend Development, UI/UX Design and Security stuff
-- 🌱 I’m currently learning Tailwindcss for my recent projects
+- 🌱 I’m currently learning Tailwindcss and using Figma for my recent projects
 - 💞️ I’m looking to collaborate on Frontend Development or UI/UX Design
 - 📫 How to reach me https://wa.me/6281332079137
 
