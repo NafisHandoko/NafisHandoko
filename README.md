@@ -4,7 +4,7 @@
 - 💞️ I’m looking for UI/UX Designer to collaborate with me
 - 📫 How to reach me https://wa.me/6281332079137
 
-# Github Stats
+# 📊Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🚀My Skills and Languages
