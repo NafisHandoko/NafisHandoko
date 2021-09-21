@@ -4,10 +4,10 @@
 - 💞️ I’m looking for UI/UX Designer to collaborate with me
 - 📫 How to reach me https://wa.me/6281332079137
 
-# 📊Github Stats
+# 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🚀My Skills and Languages
+# 🚀 My Skills and Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
