@@ -6,6 +6,7 @@
 - 📫 How to reach me https://wa.me/6281332079137
 
 ## 📊 Github Stats
+<img alig src="https://github-profile-trophy.vercel.app/?username=nafishandoko&no-bg=true&no-frame=true&theme=tokyonight&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nafishandoko&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
