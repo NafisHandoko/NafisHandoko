@@ -5,8 +5,10 @@
 - 📫 How to reach me https://wa.me/6281332079137
 
 # Github Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# My Skills and Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
