@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NafisHandoko
+# 👋 Hi, I’m Nafis Handoko
 
 - 👀 I have interest in Web Development and Cyber Security stuff
 - 🌱 I’m currently learning Tailwindcss and Reactjs for my recent projects
