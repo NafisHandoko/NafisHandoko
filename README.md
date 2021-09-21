@@ -6,6 +6,7 @@
 
 # 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nafishandoko&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🚀 My Skills and Languages
 <p>
