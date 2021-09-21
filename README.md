@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Nafis Handoko
 
+- 🇮🇩 I’m a 20 years old Software Developer from Indonesia
 - 👀 I have interest in Web Development and Cyber Security stuff
 - 🌱 I’m currently learning Tailwindcss and Reactjs for my recent projects
 - 💞️ I’m looking for UI/UX Designer to collaborate with me
