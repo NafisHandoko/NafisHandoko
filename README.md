@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @NafisHandoko
+# 👋 Hi, I’m @NafisHandoko
+
 - 👀 I have interest in Web Development and Cyber Security stuff
 - 🌱 I’m currently learning Tailwindcss and Reactjs for my recent projects
 - 💞️ I’m looking for UI/UX Designer to collaborate with me
 - 📫 How to reach me https://wa.me/6281332079137
 
-# 📊 Github Stats
+## 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nafishandoko&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🚀 My Skills and Languages
+## 🚀 My Skills and Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +25,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# Get in touch with me!
+## Get in touch with me!
 <a href="https://wa.me/6281332079137"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://t.me/nafishandoko"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:naffisioner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
