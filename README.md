@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NafisHandoko
 - 👀 I have interest in Web Development and Cyber Security stuff
 - 🌱 I’m currently learning Tailwindcss and Reactjs for my recent projects
-- 💞️ I’m looking to collaborate on Frontend Development or UI/UX Design
+- 💞️ I’m looking for UI/UX Designer to collaborate with me
 - 📫 How to reach me https://wa.me/6281332079137
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
