@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nafis Handoko
 
-- 🇮🇩 I’m a 20 years old Computer Science student from Indonesia
+- 🇮🇩 I’m a 21 years old Computer Science student from Indonesia
 - 👀 Love to learn Web Development especially Front-End stuff
 - 🌱 Currently learning React and Nextjs for my recent projects
 - 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you
