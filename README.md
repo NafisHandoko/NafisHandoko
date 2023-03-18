@@ -6,6 +6,7 @@
 - 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you
 
 ## 📊 Github Stats
+![](https://komarev.com/ghpvc/?nafishandoko)
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nafishandoko&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
