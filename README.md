@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nafis Handoko
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nafishandoko" alt="nafishandoko" /> </p>
+
 - 🇮🇩 I’m a 21 years old Computer Science student from Indonesia
 - 👀 Love to learn Web Development especially Front-End stuff
 - 🌱 Currently learning React and Nextjs for my recent projects
