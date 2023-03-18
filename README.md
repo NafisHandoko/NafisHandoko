@@ -4,6 +4,7 @@
 - 👀 Love to learn Web Development especially Front-End stuff
 - 🌱 Currently learning React and Nextjs for my recent projects
 <!-- - 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nafishandoko" alt="nafishandoko" /> </p>
 
 ## 📊 Github Stats
 <p align="center">
