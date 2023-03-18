@@ -1,12 +1,11 @@
 # 👋 Hi, I’m Nafis Handoko
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nafishandoko" alt="nafishandoko" /> </p>
 - 🇮🇩 I’m a 21 years old Computer Science student from Indonesia
 - 👀 Love to learn Web Development especially Front-End stuff
 - 🌱 Currently learning React and Nextjs for my recent projects
-- 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you
+<!-- - 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you -->
 
 ## 📊 Github Stats
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naufaldi" alt="naufaldi" /> </p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nafishandoko&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
