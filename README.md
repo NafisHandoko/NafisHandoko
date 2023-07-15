@@ -3,7 +3,7 @@
 - 🇮🇩 I’m a 22 years old Computer Science student from Indonesia
 - 👀 Love to learn Web Development especially Front-End stuff
 - 💻 React and Tailwind is my favorite stack
-- 🚀 Building <a href="https://github.com/298ms/relazee-fe">Relazee</a>
+- 🚀 Currently building <a href="https://github.com/298ms/relazee-fe">Relazee</a>
 
 <!-- - 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you -->
 <p> <img src="https://komarev.com/ghpvc/?username=nafishandoko" alt="nafishandoko" /> </p>
