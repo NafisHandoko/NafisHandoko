@@ -2,8 +2,8 @@
 
 - 🇮🇩 I’m a 23 years old Software Engineer from Indonesia
 - 👀 Love to learn Web Development especially Front-End stuff
-- 💻 Next.js, TypeScript, Tailwind CSS, and Supabase is my favorite stack
-- 🚀 Currently building <a href="https://github.com/298ms/relazee-fe">Relazee</a>
+- 🚀 Next.js, TypeScript, Tailwind CSS, and Supabase is my favorite stack
+- 💻 Currently a software engineer at <a href="https://ehealth.co.id/">ehealth.co.id</a>
 
 <!-- - 🪄 I’m working with [M Kevin Yanuar](https://instagram.com/muhammadkevinyanuar) to build beautiful portfolio website for you -->
 <p> <img src="https://komarev.com/ghpvc/?username=nafishandoko" alt="nafishandoko" /> </p>
