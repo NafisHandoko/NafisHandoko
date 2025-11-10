@@ -9,11 +9,11 @@
 <p> <img src="https://komarev.com/ghpvc/?username=nafishandoko" alt="nafishandoko" /> </p>
 
 ## 📊 Github Stats
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nafishandoko&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+</p> -->
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafishandoko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nafishandoko&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Languages & Frameworks i've learned before
